@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_quran"
+        android:title="Al Quran"
+        android:icon="@drawable/quran_selector"/>
+    <item
+        android:id="@+id/navigation_sholat"
+        android:title="Jadwal Sholat"
+        android:icon="@drawable/sholat_selector"/>
+
+    <item
+        android:id="@+id/navigation_masjid"
+        android:title="Masjid Terdekat"
+        android:icon="@drawable/masjid_selector"/>
+</menu>
